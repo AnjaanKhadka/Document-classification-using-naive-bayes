@@ -5,8 +5,6 @@ import nltk
 import pickle
 import fitz
 from sklearn.feature_extraction.text import CountVectorizer
-from train_model import input_process
-
 
 
 def load_model_and_vectorizer():
